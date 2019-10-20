@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:rowCount="4"
+    android:columnCount="4"
+    android:padding="30dp"
+
+    >
+    <Button
+        android:id="@+id/btn1"
+        android:text="1"
+
+        />
+    <Button
+        android:id="@+id/btn4"
+        android:text="4"
+
+        />
+    <Button
+        android:id="@+id/btn7"
+        android:text="7"
+
+        />
+    <Button
+        android:id="@+id/btndot"
+        android:text="CL"
+
+        />
+    <Button
+        android:id="@+id/btn2"
+        android:text="2"
+
+        />
+    <Button
+        android:id="@+id/btn5"
+        android:text="5"
+
+        />
+    <Button
+        android:id="@+id/btn8"
+        android:text="8"
+
+
+        />
+    <Button
+        android:id="@+id/btn0"
+        android:text="0"
+
+        />
+    <Button
+        android:id="@+id/btn3"
+        android:text="3"
+
+        />
+    <Button
+        android:id="@+id/btn6"
+        android:text="6"
+
+        />
+    <Button
+        android:id="@+id/btn9"
+        android:text="9"
+
+        />
+    <Button
+        android:id="@+id/btndiv"
+        android:text="/"
+
+        />
+
+    <Button
+        android:id="@+id/btnadd"
+        android:text="+"
+
+        />
+    <Button
+        android:id="@+id/btnsub"
+        android:text="-"
+
+        />
+    <Button
+        android:id="@+id/btnmulti"
+        android:text="*"
+
+        />
+    <Button
+        android:id="@+id/btnequl"
+        android:text="="
+
+        />
+
+
+</GridLayout>
